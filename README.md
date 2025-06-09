@@ -41,7 +41,7 @@ Results-driven Full-Stack and Web3 Developer with hands-on experience building s
 ---
 
 ### Full Stack Developer  
-**NFTFN**  
+**NFTFN - NFT PERP DEX**  
 *03/2023 – 09/2024*
 
 - Architected and launched a customer-focused, responsive Decentralized Trading Platform using React, Wagmi, and cutting-edge Web3 technologies.
