@@ -9,7 +9,6 @@
 - **Phone:** +91 8851780947  
 - **LinkedIn:** [rohitbaghel](https://linkedin.com/in/rohitbaghel)  
 - **GitHub:** [RohitBaghel](https://github.com/RohitBaghel)  
-- **Portfolio:** [Add your link]
 
 ---
 
